@@ -382,156 +382,96 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-<td width="29">
-<p><strong>42</strong></p>
-</td>
-<td width="170">
-<p>FLUOROURACILE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>T.Bil &gt; 50 mg/L: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>43</strong></p>
-</td>
-<td width="170">
-<p>FULVESTRANT</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>44</strong></p>
-</td>
-<td width="170">
-<p>GEFITINIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>45</strong></p>
-</td>
-<td width="170">
-<p>GEMCITABINE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>&bull; Asat H &gt;40UI/L, F&gt;32UI/L: No adaptation</p>
-<p>&bull; T.Bil&gt;12mg/L: 80%</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>46</strong></p>
-</td>
-<td width="170">
-<p>HYDROXYCARBAMIDE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt;&nbsp; 60 mL/min: 75%</p>
-<p>&bull; CrCl &lt; 10 mL/min: 50%</p>
-</td>
-<td width="223">
-<p>&bull; T.bili 15-50mg/L or Asat 60-180IU/L: 50%</p>
-<p>&bull; T.bili &gt;50mg/l or Asat &gt; 180 UI&nbsp;/l: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>47</strong></p>
-</td>
-<td width="170">
-<p>IBRUTINIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>48</strong></p>
-</td>
-<td width="170">
-<p>IFOSFAMIDE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 60 mL/min: 80%</p>
-<p>&bull; CrCl &lt; 45 mL/min: 75%</p>
-<p>&bull; CrCl &lt; 30 mL/min: 70%</p>
-<p>&bull; CrCl &lt; 10 mL/min: CI</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>49</strong></p>
-</td>
-<td width="170">
-<p>IMATINIB</p>
-</td>
-<td width="179">
-<p>CrCl &lt; 60 mL/min: 400 mg</p>
-</td>
-<td width="223">
-<p>T.Bil &gt;12mg/l: 400 mg</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>50</strong></p>
-</td>
-<td width="170">
-<p>IRINOTECAN</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>&bull; Increased AST: No adaptation.</p>
-<p>&bull; T.Bil 18mg/l &ndash;36 mg/l&nbsp; and ratio of AST to ALT &lt; 5 &times; ULN: 75%</p>
-<p>&bull; T.Bil 37,2 mg/l &ndash;60mg/l and ratio of AST to ALT &lt; 5 &times; ULN: 40%</p>
-<p>&bull; T.Bil &lt; 18 mg/l ratio of AST to ALT 5.1&ndash;20 &times; ULN: 75%</p>
-<p>&bull; T.Bil 18mg/l &ndash;36 mg/l&nbsp; and ratio of AST to ALT 5.1&ndash;20 &times; ULN: 30%</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>51</strong></p>
-</td>
-<td width="170">
-<p>IDARUBICINE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>Bili &gt;36mg/l: CI</p>
-</td>
-</tr>
-<tr>
+    <td><strong>42</strong></td>
+    <td>FLUOROURACILE</td>
+    <td>No adaptation</td>
+    <td>T.Bil &gt; 50 mg/L: CI</td>
+   </tr>
+   <tr>
+    <td><strong>43</strong></td>
+    <td>FULVESTRANT</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>44</strong></td>
+    <td>GEFITINIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>45</strong></td>
+    <td>GEMCITABINE</td>
+    <td>No adaptation</td>
+    <td>
+     <ul>
+       <li>Asat H &gt;40UI/L, F&gt;32UI/L: No adaptation</li>
+       <li>T.Bil&gt;12mg/L: 80%</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>46</strong></td>
+    <td>HYDROXYCARBAMIDE</td>
+    <td>
+     <ul>
+       <li>CrCl &lt;&nbsp; 60 mL/min: 75%</li>
+       <li>CrCl &lt; 10 mL/min: 50%</li>
+     </ul>
+    </td>
+    <td>
+     <ul>
+       <li>T.bili 15-50mg/L or Asat 60-180IU/L: 50%</li>
+       <li>T.bili &gt;50mg/l or Asat &gt; 180 UI&nbsp;/l: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>47</strong></td>
+    <td>IBRUTINIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>48</strong></td>
+    <td>IFOSFAMIDE</td>
+    <td>
+     <ul>
+       <li>CrCl &lt; 60 mL/min: 80%</li>
+       <li>CrCl &lt; 45 mL/min: 75%</li>
+       <li>CrCl &lt; 30 mL/min: 70%</li>
+       <li>CrCl &lt; 10 mL/min: CI</li>
+     </ul>
+    </td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>49</strong></td>
+    <td>IMATINIB</td>
+    <td>CrCl &lt; 60 mL/min: 400 mg</td>
+    <td>T.Bil &gt;12mg/l: 400 mg</td>
+   </tr>
+   <tr>
+    <td><strong>50</strong></td>
+    <td>IRINOTECAN</td>
+    <td>No adaptation</td>
+    <td>
+     <ul>
+       <li>Increased AST: No adaptation.</li>
+       <li>T.Bil 18mg/l &ndash;36 mg/l&nbsp; and ratio of AST to ALT &lt; 5 &times; ULN: 75%</li>
+       <li>T.Bil 37,2 mg/l &ndash;60mg/l and ratio of AST to ALT &lt; 5 &times; ULN: 40%</li>
+       <li>T.Bil &lt; 18 mg/l ratio of AST to ALT 5.1&ndash;20 &times; ULN: 75%</li>
+       <li>T.Bil 18mg/l &ndash;36 mg/l&nbsp; and ratio of AST to ALT 5.1&ndash;20 &times; ULN: 30%</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>51</strong></td>
+    <td>IDARUBICINE</td>
+    <td>No adaptation</td>
+    <td>Bili &gt;36mg/l: CI</td>
+   </tr>
+   <tr>
 <td width="29">
 <p><strong>52</strong></p>
 </td>
