@@ -596,76 +596,36 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-<td width="29">
-<p><strong>66</strong></p>
-</td>
-<td width="170">
-<p>PALBOCICLIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>67</strong></p>
-</td>
-<td width="170">
-<p>PANITUMUMAB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>68</strong></p>
-</td>
-<td width="170">
-<p>PAZOPANIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>69</strong></p>
-</td>
-<td width="170">
-<p>PEMBROLIZUM</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>70</strong></p>
-</td>
-<td width="170">
-<p>PEMETREXED</p>
-</td>
-<td width="179">
-<p>CrCl &lt; 45 mL/min: CI</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
+    <td>66</td>
+    <td>PALBOCICLIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>67</td>
+    <td>PANITUMUMAB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>68</td>
+    <td>PAZOPANIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>69</td>
+    <td>PEMBROLIZUM</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>70</td>
+    <td>PEMETREXED</td>
+    <td>CrCl &lt; 45 mL/min: CI</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
 <td width="29">
 <p><strong>71</strong></p>
 </td>
