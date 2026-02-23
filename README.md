@@ -3,165 +3,85 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
 
 <strong>Table 1.</strong> Adaptation of anticancer drugs in patients with renal or hepatic impairment
 <table>
-<tbody>
-<tr>
-<td width="29">
-<p><strong>N</strong></p>
-</td>
-<td width="170">
-<p><strong>Medicines</strong></p>
-</td>
-<td width="179">
-<p><strong>Renal impairment</strong></p>
-</td>
-<td width="223">
-<p><strong>Hepatic impairment</strong></p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>01</strong></p>
-</td>
-<td width="170">
-<p>ACETATE D&rsquo;ABIRATERONE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>02</strong></p>
-</td>
-<td width="170">
-<p>ACIDE ZOLEDRONIQUE</p>
-</td>
-<td width="179">
-<p>CrCl &lt; 35 mL/min: CI</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>03</strong></p>
-</td>
-<td width="170">
-<p>AFATINIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>04</strong></p>
-</td>
-<td width="170">
-<p>AFLIBERCEPT</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>05</strong></p>
-</td>
-<td width="170">
-<p>ALEMTUZUMAB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>06</strong></p>
-</td>
-<td width="170">
-<p>AMASACRINE</p>
-</td>
-<td width="179">
-<p>CrCl &lt; 30 mL/min: 70%</p>
-</td>
-<td width="223">
-<p>&bull; Bili &gt; 20mg/l: 60 -70%</p>
-<p>&bull; &gt; 36mg/l: 50 % or not recommended</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>07</strong></p>
-</td>
-<td width="170">
-<p>ASPARAGINASE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>&gt; 36mg/l: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>08</strong></p>
-</td>
-<td width="170">
-<p>AXITINIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>09</strong></p>
-</td>
-<td width="170">
-<p>AZACITIDINE</p>
-</td>
-<td width="179">
-<p>Creatininemie &ge; 14-26 mg/L for men and 10-24 mg/L for women: 50%</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>10</strong></p>
-</td>
-<td width="170">
-<p>BENDAMUSTINE</p>
-</td>
-<td width="179">
-<p>CrCl &lt; 40 mL/min: CI</p>
-</td>
-<td width="223">
-<p>&bull; Bili &lt; 12 mg/l: NA</p>
-<p>&bull; Bili 12mg/l &ndash; 30mg/l: 70%</p>
-<p>&bull; Bili &gt; 30mg/l : CI</p>
-</td>
-</tr>
-<tr>
+ <tbody>
+   <tr>
+     <td><strong>N</strong></td>
+     <td><strong>Medicines</strong></td>
+     <td><strong>Renal impairment</strong></td>
+     <td><strong>Hepatic impairment</strong></td>
+   </tr>
+   <tr>
+     <td><strong>01</strong></td>
+     <td>ACETATE D&rsquo;ABIRATERONE</td>
+     <td>No adaptation</td>
+     <td>No adaptation</td>
+   </tr>
+   <tr>
+     <td><strong>02</strong></td>
+     <td>ACIDE ZOLEDRONIQUE</td>
+     <td>CrCl &lt; 35 mL/min: CI</td>
+     <td>No adaptation</td>
+   </tr>
+   <tr>
+     <td><strong>03</strong></td>
+     <td>AFATINIB</td>
+     <td>No adaptation</td>
+     <td>No adaptation</td>
+   </tr>
+   <tr>
+     <td><strong>04</strong></td>
+     <td>AFLIBERCEPT</td>
+     <td>No adaptation</td>
+     <td>No adaptation</td>
+   </tr>
+   <tr>
+     <td><strong>05</strong></td>
+     <td>ALEMTUZUMAB</td>
+     <td>No adaptation</td>
+     <td>No adaptation</td>
+   </tr>
+   <tr>
+     <td><strong>06</strong></td>
+     <td>AMASACRINE</td>
+     <td>CrCl &lt; 30 mL/min: 70%</td>
+     <td>
+       <ul>
+         <li>Bili &gt; 20mg/l: 60 -70%</li>
+         <li>&gt; 36mg/l: 50 % or not recommended</li>
+       </ul>
+     </td>
+   </tr>
+   <tr>
+     <td><strong>07</strong></td>
+     <td>ASPARAGINASE</td>
+     <td>No adaptation</td>
+     <td>&gt; 36mg/l: CI</td>
+   </tr>
+   <tr>
+     <td><strong>08</strong></td>
+     <td>AXITINIB</td>
+     <td>No adaptation</td>
+     <td>No adaptation</td>
+   </tr>
+   <tr>
+     <td><strong>09</strong></td>
+     <td>AZACITIDINE</td>
+     <td>Creatininemie &ge; 14-26 mg/L for men and 10-24 mg/L for women: 50%</td>
+     <td>No adaptation</td>
+   </tr>
+   <tr>
+     <td><strong>10</strong></td>
+     <td>BENDAMUSTINE</td>
+     <td>CrCl &lt; 40 mL/min: CI</td>
+     <td>
+       <ul>
+         <li>Bili &lt; 12 mg/l: NA</li>
+         <li>Bili 12mg/l &ndash; 30mg/l: 70%</li>
+         <li>Bili &gt; 30mg/l : CI</li>
+       </ul>
+     </td>
+   </tr>
+   <tr>
 <td width="29">
 <p><strong>11</strong></p>
 </td>
