@@ -82,38 +82,26 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
      </td>
    </tr>
    <tr>
-<td width="29">
-<p><strong>11</strong></p>
-</td>
-<td width="170">
-<p>BEVACIZUMAB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>12</strong></p>
-</td>
-<td width="170">
-<p>BLEOMYCINE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 50 mL/min: 70%</p>
-<p>&bull; CrCl &lt; 40 mL/min: 60%</p>
-<p>&bull; CrCl &lt; 30 mL/min: 55%</p>
-<p>&bull; CrCl &lt; 20 mL/min: 45%</p>
-<p>&bull; CrCl &lt; 10 mL/min: 40%</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
+    <td><strong>11</strong></td>
+    <td>BEVACIZUMAB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>12</strong></td>
+    <td>BLEOMYCINE</td>
+    <td>
+     <ul>
+         <li>CrCl &lt; 50 mL/min: 70%</li>
+         <li>CrCl &lt; 40 mL/min: 60%</li>
+         <li>CrCl &lt; 30 mL/min: 55%</li>
+         <li>CrCl &lt; 20 mL/min: 45%</li>
+         <li>CrCl &lt; 10 mL/min: 40%</li>
+     </ul>
+    </td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
 <td width="29">
 <p><strong>13</strong></p>
 </td>
