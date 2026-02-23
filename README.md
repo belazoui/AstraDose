@@ -472,155 +472,100 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>Bili &gt;36mg/l: CI</td>
    </tr>
    <tr>
-<td width="29">
-<p><strong>52</strong></p>
-</td>
-<td width="170">
-<p>LANREOTIDE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>53</strong></p>
-</td>
-<td width="170">
-<p>LAPATINIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>54</strong></p>
-</td>
-<td width="170">
-<p>LENALIDOMIDE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt;&nbsp; 60 mL/min: 10 mg every 24h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; CrCl &lt; 30 mL/min (does not require dialysis): 15 mg every 48h</p>
-<p>&bull; CrCl &lt; 30 mL/min (requires dialysis): 5 mg/day</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>55</strong></p>
-</td>
-<td width="170">
-<p>LENOGRASTIM</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>56</strong></p>
-</td>
-<td width="170">
-<p>MELPHALAN</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 60 mL/min: 85%</p>
-<p>&bull; CrCl &lt; 45 mL/min: 75%</p>
-<p>&bull; CrCl &lt; 30 mL/min: 70%</p>
-<p>&bull; CrCl &lt; 10 mL/min: 50%</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>57</strong></p>
-</td>
-<td width="170">
-<p>MERCAPTOPURINE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &le; 50 mL/min: 50%</p>
-<p>&bull; CrCl &lt; 20 mL/min: CI</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>58</strong></p>
-</td>
-<td width="170">
-<p>METHOTRAXATE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl&nbsp; &lt; 50 mL/min: 50%</p>
-<p>&bull; CrCl&nbsp; &lt; 15 mL/min: CI</p>
-</td>
-<td width="223">
-<p>&bull; T.Bil 31&ndash;50 mg/L or AST &gt; 180 IU/L: 75%</p>
-<p>&bull; T.Bil &gt; 50mg/L: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>59</strong></p>
-</td>
-<td width="170">
-<p>MITOMYCINE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 60 mL/min: 75%</p>
-<p>&bull; CrCl &lt; 30 mL/min: 50%</p>
-<p>&bull; CrCl &lt; 10 mL/min: CI</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>60</strong></p>
-</td>
-<td width="170">
-<p>NILOTINIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>61</strong></p>
-</td>
-<td width="170">
-<p>NIMOTUZUMAB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
+    <td><strong>52</strong></td>
+    <td>LANREOTIDE</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>53</strong></td>
+    <td>LAPATINIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>54</strong></td>
+    <td>LENALIDOMIDE</td>
+    <td>
+     <ul>
+       <li>CrCl &lt;&nbsp; 60 mL/min: 10 mg every 24h.</li>
+       <li>CrCl &lt; 30 mL/min (does not require dialysis): 15 mg every 48h.</li>
+       <li>CrCl &lt; 30 mL/min (requires dialysis): 5 mg/day.</li>
+     </ul>
+    </td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>55</strong></td>
+    <td>LENOGRASTIM</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>56</strong></td>
+    <td>MELPHALAN</td>
+    <td>
+     <ul>
+       <li>CrCl &lt; 60 mL/min: 85%</li>
+       <li>CrCl &lt; 45 mL/min: 75%</li>
+       <li>CrCl &lt; 30 mL/min: 70%</li>
+       <li>CrCl &lt; 10 mL/min: 50%</li>
+     </ul>
+    </td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>57</strong></td>
+    <td>MERCAPTOPURINE</td>
+    <td>
+     <ul>
+       <li>CrCl &le; 50 mL/min: 50%</li>
+       <li>CrCl &lt; 20 mL/min: CI</li>
+     </ul>
+    </td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>58</strong></td>
+    <td>METHOTRAXATE</td>
+    <td>
+     <ul>
+       <li>CrCl&nbsp; &lt; 50 mL/min: 50%</li>
+       <li>CrCl&nbsp; &lt; 15 mL/min: CI</li>
+     </ul>
+    </td>
+    <td>
+     <ul>
+       <li>T.Bil 31&ndash;50 mg/L or AST &gt; 180 IU/L: 75%</li>
+       <li>T.Bil &gt; 50mg/L: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>59</strong></td>
+    <td>MITOMYCINE</td>
+    <td>
+     <ul>
+       <li>CrCl &lt; 60 mL/min: 75%</li>
+       <li>CrCl &lt; 30 mL/min: 50%</li>
+       <li>CrCl &lt; 10 mL/min: CI</li>
+     </ul>
+    </td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>60</strong></td>
+    <td>NILOTINIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>61</strong></td>
+    <td>NIMOTUZUMAB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
 <td width="29">
 <p><strong>62</strong></p>
 </td>
