@@ -566,64 +566,36 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-<td width="29">
-<p><strong>62</strong></p>
-</td>
-<td width="170">
-<p>NINTEDANIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>63</strong></p>
-</td>
-<td width="170">
-<p>NIVOLUMAB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>64</strong></p>
-</td>
-<td width="170">
-<p>OXALIPLATINE</p>
-</td>
-<td width="179">
-<p>CrCl &lt; 30 mL/min: CI</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>65</strong></p>
-</td>
-<td width="170">
-<p>PACLITAXEL</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>&bull; Asat H&lt; 400UI/L&nbsp;F&lt; 320 UI/L and bili 19,2mg/l -24mg/l: 77%</p>
-<p>&bull; Asat H&lt; 400UI/L&nbsp;F&lt; 320 UI/L and bili 24,12mg/l -60mg/l: 51%</p>
-<p>&bull; Asat H&ge; 400UI/L&nbsp;F&ge; 320 UI/L and bili &gt; 60mg/l: not recommended&nbsp;&nbsp;or CI</p>
-</td>
-</tr>
-<tr>
+    <td><strong>62</strong></td>
+    <td>NINTEDANIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>63</strong></td>
+    <td>NIVOLUMAB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>64</strong></td>
+    <td>OXALIPLATINE</td>
+    <td>CrCl &lt; 30 mL/min: CI</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>65</strong></td>
+    <td>PACLITAXEL</td>
+    <td>No adaptation</td>
+    <td>
+     <ul>
+       <li>Asat H&lt; 400UI/L&nbsp;F&lt; 320 UI/L and bili 19,2mg/l -24mg/l: 77%</li>
+       <li>Asat H&lt; 400UI/L&nbsp;F&lt; 320 UI/L and bili 24,12mg/l -60mg/l: 51%</li>
+       <li>Asat H&ge; 400UI/L&nbsp;F&ge; 320 UI/L and bili &gt; 60mg/l: not recommended&nbsp;&nbsp;or CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
 <td width="29">
 <p><strong>66</strong></p>
 </td>
