@@ -285,155 +285,103 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-<td width="29">
-<p><strong>32</strong></p>
-</td>
-<td width="170">
-<p>DENOSUMAB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>33</strong></p>
-</td>
-<td width="170">
-<p>DOXORUBICINE</p>
-</td>
-<td width="179">
-<p>CrCl &lt; 10 mL/min: 75%</p>
-</td>
-<td width="223">
-<p>&bull; T.Bil 15&ndash;30 mg/L or AST 60&ndash;180 IU/L: 50%</p>
-<p>&bull; T.Bil &gt; 31&ndash;50 mg/L or AST &gt; 180 IU/L: 25%</p>
-<p>&bull; T.Bil &gt; 50 mg/L: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>34</strong></p>
-</td>
-<td width="170">
-<p>DOCETAXEL</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>&bull; ASAT H&gt;60UI/L F &gt;48UI/L or PAL H&gt;325 UI/L F &gt;262,5UI/L: 75%</p>
-<p>&bull; Bili &gt;12mg/l and/or [asat&nbsp; H&gt; 140 UI/L F &gt;112 UI/L with PAL H &gt;780UI/L&nbsp; F&gt; 630UI/L]: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>35</strong></p>
-</td>
-<td width="170">
-<p>ENZALUTAMIDE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>36</strong></p>
-</td>
-<td width="170">
-<p>EPIRUBICINE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>&bull; Bili 12-30mg/l or asat (H 80UI/L F 64UI/L &ndash; H160UI/L&nbsp; F128UI/L): 50%</p>
-<p>&bull; Bili &gt; 30mg/l or asat H160UI/L&nbsp; F128UI/L: 25%</p>
-<p>&bull; Bili&gt; 36mg/l: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>37</strong></p>
-</td>
-<td width="170">
-<p>ERIBULINE</p>
-</td>
-<td width="179">
-<p>CrCl&nbsp; &lt; 50 mL/min: 80%</p>
-</td>
-<td width="223">
-<p>BILI &gt;36mg/l: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>38</strong></p>
-</td>
-<td width="170">
-<p>ERLOTINIB</p>
-</td>
-<td width="179">
-<p>CrCl &lt; 10 mL/min: CI</p>
-</td>
-<td width="223">
-<p>&bull; AST H &ge; 120 UI/L&nbsp; F &ge;96UI/L or T.Bil 1&ndash;7 mg/L: &nbsp;50%</p>
-<p>&bull; T.Bil &gt; 70 mg/L: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>39</strong></p>
-</td>
-<td width="170">
-<p>ETOPOSIDE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 50 mL/min: 75%</p>
-<p>&bull; CrCl &lt; 15 mL/min: CI</p>
-</td>
-<td width="223">
-<p>&bull; T.Bil 15&ndash;30mg/L or AST 60&ndash;180 UI/L: 50%</p>
-<p>&bull; T.Bil &ge; 30 mg/L or AST &gt; 180 UI/L: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>40</strong></p>
-</td>
-<td width="170">
-<p>EVEROLIMUS</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>41</strong></p>
-</td>
-<td width="170">
-<p>FLUDARABINE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 70 mL/min: 50%</p>
-<p>&bull; CrCl &lt; 30 mL/min: CI</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
+    <td><strong>32</strong></td>
+    <td>DENOSUMAB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>33</strong></td>
+    <td>DOXORUBICINE</td>
+    <td>CrCl &lt; 10 mL/min: 75%</td>
+    <td>
+     <ul>
+       <li>T.Bil 15&ndash;30 mg/L or AST 60&ndash;180 IU/L: 50%</li>
+       <li>T.Bil &gt; 31&ndash;50 mg/L or AST &gt; 180 IU/L: 25%</li>
+       <li>T.Bil &gt; 50 mg/L: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>34</strong></td>
+    <td>DOCETAXEL</td>
+    <td>No adaptation</td>
+    <td>
+     <ul>
+       <li>ASAT H&gt;60UI/L F &gt;48UI/L or PAL H&gt;325 UI/L F &gt;262,5UI/L: 75%</li>
+       <li>Bili &gt;12mg/l and/or [asat&nbsp; H&gt; 140 UI/L F &gt;112 UI/L with PAL H &gt;780UI/L&nbsp; F&gt; 630UI/L]: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>35</strong></td>
+    <td>ENZALUTAMIDE</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>36</strong></td>
+    <td>EPIRUBICINE</td>
+    <td>No adaptation</td>
+    <td>
+     <ul>
+       <li>Bili 12-30mg/l or asat (H 80UI/L F 64UI/L &ndash; H160UI/L&nbsp; F128UI/L): 50%</li>
+       <li>Bili &gt; 30mg/l or asat H160UI/L&nbsp; F128UI/L: 25%</li>
+       <li>Bili&gt; 36mg/l: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>37</strong></td>
+    <td>ERIBULINE</td>
+    <td>CrCl&nbsp; &lt; 50 mL/min: 80%</td>
+    <td>BILI &gt;36mg/l: CI</td>
+   </tr>
+   <tr>
+    <td><strong>38</strong></td>
+    <td>ERLOTINIB</td>
+    <td>CrCl &lt; 10 mL/min: CI</td>
+    <td>
+     <ul>
+       <li>AST H &ge; 120 UI/L&nbsp; F &ge;96UI/L or T.Bil 1&ndash;7 mg/L: &nbsp;50%</li>
+       <li>T.Bil &gt; 70 mg/L: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>39</strong></td>
+    <td>ETOPOSIDE</td>
+    <td>
+     <ul>
+       <li>CrCl &lt; 50 mL/min: 75%</li>
+       <li>CrCl &lt; 15 mL/min: CI</li>
+     </ul>
+    </td>
+    <td>
+     <ul>
+       <li>T.Bil 15&ndash;30mg/L or AST 60&ndash;180 UI/L: 50%</li>
+       <li>T.Bil &ge; 30 mg/L or AST &gt; 180 UI/L: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>40</strong></td>
+    <td>EVEROLIMUS</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>41</strong></td>
+    <td>FLUDARABINE</td>
+    <td>
+     <ul>
+       <li>CrCl &lt; 70 mL/min: 50%</li>
+       <li>CrCl &lt; 30 mL/min: CI</li>
+     </ul>
+    </td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
 <td width="29">
 <p><strong>42</strong></p>
 </td>
