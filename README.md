@@ -102,289 +102,189 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-<td width="29">
-<p><strong>13</strong></p>
-</td>
-<td width="170">
-<p>BLINATUMOMAB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>14</strong></p>
-</td>
-<td width="170">
-<p>BORTEZOMIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>&bull; Bili &le;18mg/l: NA</p>
-<p>&bull; Bili &gt;18mg/l: 50%</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>15</strong></p>
-</td>
-<td width="170">
-<p>BRENTUXIMAB</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 30 mL/min: 1,2 mg/k</p>
-<p>&bull; CrCl&nbsp; &lt; 15 mL/min: CI</p>
-</td>
-<td width="223">
-<p>&bull; Bili: 12- 18mg/l: 66%</p>
-<p>&bull; Bili &gt;18- 36mg/L: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>16</strong></p>
-</td>
-<td width="170">
-<p>CABAZITAXEL</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>&bull; Bili&nbsp;: 12- 18mg/l&nbsp;or ASAT H&gt;40UI/L F &gt;38UI/L: 80%</p>
-<p>&bull; Bili 18- 36mg/L:60%</p>
-<p>&bull; &gt; 36mg/l: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>17</strong></p>
-</td>
-<td width="170">
-<p>CAPECITABINE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 50 mL/min: 75 %</p>
-<p>&bull; CrCl &lt; 30 mL/min: CI</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>18</strong></p>
-</td>
-<td width="170">
-<p>CARBOPLATINE</p>
-</td>
-<td width="179">
-<p>CALVERT</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>19</strong></p>
-</td>
-<td width="170">
-<p>CARFILOZOMIB</p>
-</td>
-<td width="179">
-<p>CrCl &lt; 15 mL/min: 50%</p>
-</td>
-<td width="223">
-<p>&bull; Bili 12mg/l &ndash; 36mg/l: 75%</p>
-<p>&bull; &gt; 36mg/l: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>20</strong></p>
-</td>
-<td width="170">
-<p>CETUXIMAB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>21</strong></p>
-</td>
-<td width="170">
-<p>CHLORAMBUCIL</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 60 mL/min: 1,5 to 9mg/day</p>
-<p>&bull; CrCl &lt; 15 mL/min: 1 to 6 mg/day</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>22</strong></p>
-</td>
-<td width="170">
-<p>CISPLATINE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 60 mL/min: 50 %</p>
-<p>&bull; CrCl &lt; 45 mL/min: 25 %</p>
-<p>&bull; CrCl &le; 30 mL/min: CI</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>23</strong></p>
-</td>
-<td width="170">
-<p>CLADRIBINE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 50 mL/min: 75%</p>
-<p>&bull; CrCl &lt; 10 mL/min: 50%</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>24</strong></p>
-</td>
-<td width="170">
-<p>CRISANTASPASE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>BILI &gt;12mg/l: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>25</strong></p>
-</td>
-<td width="170">
-<p>CRIZOTINIB</p>
-</td>
-<td width="179">
-<p>CrCl &le; 30 mL/min: 250 mg daily (no dialysis required), the dosage may be increased to 200 mg twice daily based on individual safety and tolerance.</p>
-</td>
-<td width="223">
-<p>BILI &gt;12mg/l: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>26</strong></p>
-</td>
-<td width="170">
-<p>CYCLOPHOSPHAMIDE</p>
-</td>
-<td width="179">
-<p>CrCl &lt; 10 mL/min: 50 %</p>
-</td>
-<td width="223">
-<p>&bull; T.Bil &gt; 31&ndash;50 mg/L or AST &gt; 180 IU/L: 75%</p>
-<p>&bull; T.Bil &gt; 50 mg/L: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>27</strong></p>
-</td>
-<td width="170">
-<p>CYTARABINE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 60 mL/min: 50%</p>
-<p>&bull; CrCl &lt; 40 mL/min: 25 %</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>28</strong></p>
-</td>
-<td width="170">
-<p>DACARBAZINE</p>
-</td>
-<td width="179">
-<p>&bull; CrCl &lt; 60 mL/min: 75%</p>
-<p>&bull; CrCl &lt; 30 mL/min: 50%</p>
-<p>&bull; CrCl &lt; 10 mL/min: CI</p>
-</td>
-<td width="223">
-<p>T.Bil &gt; 36mg/l: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>29</strong></p>
-</td>
-<td width="170">
-<p>DACTINOMYCINE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>30</strong></p>
-</td>
-<td width="170">
-<p>DASATINIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>31</strong></p>
-</td>
-<td width="170">
-<p>DAUNORUBICINE</p>
-</td>
-<td width="179">
-<p>Creatininemie &gt; 30 mg/L: 50%</p>
-</td>
-<td width="223">
-<p>&bull; T.Bil 15&ndash;30 mg/L or AST 60&ndash;180 IU/L: 75%</p>
-<p>&bull; T.Bil &gt; 31&ndash;50 mg/L or AST &gt; 180 IU/L: 50%</p>
-<p>&bull; T.Bil &gt; 50 mg/L: CI</p>
-</td>
-</tr>
-<tr>
+    <td><strong>13</strong></td>
+    <td>BLINATUMOMAB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>14</strong></td>
+    <td>BORTEZOMIB</td>
+    <td>No adaptation</td>
+    <td>
+     <ul>
+       <li>Bili &le;18mg/l: NA</li>
+       <li>Bili &gt;18mg/l: 50%</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>15</strong></td>
+    <td>BRENTUXIMAB</td>
+    <td>
+     <ul>
+       <li>CrCl &lt; 30 mL/min: 1,2 mg/k</li>
+       <li>CrCl&nbsp; &lt; 15 mL/min: CI</li>
+     </ul>
+    </td>
+    <td>
+     <ul>
+       <li>Bili: 12- 18mg/l: 66%</li>
+       <li>Bili &gt;18- 36mg/L: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>16</strong></td>
+    <td>CABAZITAXEL</td>
+    <td>No adaptation</td>
+    <td>
+     <ul>
+       <li>Bili&nbsp;: 12- 18mg/l&nbsp;or ASAT H&gt;40UI/L F &gt;38UI/L: 80%</li>
+       <li>Bili 18- 36mg/L:60%</li>
+       <li>&gt; 36mg/l: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>17</strong></td>
+    <td>CAPECITABINE</td>
+    <td>
+     <ul>
+       <li>CrCl &lt; 50 mL/min: 75 %</li>
+       <li>CrCl &lt; 30 mL/min: CI</li>
+     </ul>
+    </td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>18</strong></td>
+    <td>CARBOPLATINE</td>
+    <td>CALVERT</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>19</strong></td>
+    <td>CARFILOZOMIB</td>
+    <td>CrCl &lt; 15 mL/min: 50%</td>
+    <td>
+     <ul>
+       <li>Bili 12mg/l &ndash; 36mg/l: 75%</li>
+       <li>&gt; 36mg/l: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>20</strong></td>
+    <td>CETUXIMAB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>21</strong></td>
+    <td>CHLORAMBUCIL</td>
+    <td>
+     <ul>
+       <li>CrCl &lt; 60 mL/min: 1,5 to 9mg/day</li>
+       <li>CrCl &lt; 15 mL/min: 1 to 6 mg/day</li>
+     </ul>
+    </td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>22</strong></td>
+    <td>CISPLATINE</td>
+    <td>
+     <ul>
+       <li>CrCl &lt; 60 mL/min: 50 %</li>
+       <li>CrCl &lt; 45 mL/min: 25 %</li>
+       <li>CrCl &le; 30 mL/min: CI</li>
+     </ul>
+    </td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>23</strong></td>
+    <td>CLADRIBINE</td>
+    <td>
+     <ul>
+       <li>CrCl &lt; 50 mL/min: 75%</li>
+       <li>CrCl &lt; 10 mL/min: 50%</li>
+     </ul>
+    </td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>24</strong></td>
+    <td>CRISANTASPASE</td>
+    <td>No adaptation</td>
+    <td>BILI &gt;12mg/l: CI</td>
+   </tr>
+   <tr>
+    <td><strong>25</strong></td>
+    <td>CRIZOTINIB</td>
+    <td>CrCl &le; 30 mL/min: 250 mg daily (no dialysis required), the dosage may be increased to 200 mg twice daily based on individual safety and tolerance.</td>
+    <td>BILI &gt;12mg/l: CI</td>
+   </tr>
+   <tr>
+    <td><strong>26</strong></td>
+    <td>CYCLOPHOSPHAMIDE</td>
+    <td>CrCl &lt; 10 mL/min: 50 %</td>
+    <td>
+     <ul>
+       <li>T.Bil &gt; 31&ndash;50 mg/L or AST &gt; 180 IU/L: 75%</li>
+       <li>T.Bil &gt; 50 mg/L: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td><strong>27</strong></td>
+    <td>CYTARABINE</td>
+    <td>
+     <ul>
+       <li>CrCl &lt; 60 mL/min: 50%</li>
+       <li>CrCl &lt; 40 mL/min: 25 %</li>
+     </ul>
+    </td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>28</strong></td>
+    <td>DACARBAZINE</td>
+    <td>
+     <ul>
+       <li>CrCl &lt; 60 mL/min: 75%</li>
+       <li>CrCl &lt; 30 mL/min: 50%</li>
+       <li>CrCl &lt; 10 mL/min: CI</li>
+     </ul>
+    </td>
+    <td>T.Bil &gt; 36mg/l: CI</td>
+   </tr>
+   <tr>
+    <td><strong>29</strong></td>
+    <td>DACTINOMYCINE</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>30</strong></td>
+    <td>DASATINIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td><strong>31</strong></td>
+    <td>DAUNORUBICINE</td>
+    <td>Creatininemie &gt; 30 mg/L: 50%</td>
+    <td>
+     <ul>
+       <li>T.Bil 15&ndash;30 mg/L or AST 60&ndash;180 IU/L: 75%</li>
+       <li>T.Bil &gt; 31&ndash;50 mg/L or AST &gt; 180 IU/L: 50%</li>
+       <li>T.Bil &gt; 50 mg/L: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
 <td width="29">
 <p><strong>32</strong></p>
 </td>
