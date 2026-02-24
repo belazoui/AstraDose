@@ -626,230 +626,102 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-<td width="29">
-<p><strong>71</strong></p>
-</td>
-<td width="170">
-<p>PERTUZUMAB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>72</strong></p>
-</td>
-<td width="170">
-<p>PRALATREXATE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>73</strong></p>
-</td>
-<td width="170">
-<p>PROCARBAZINE</p>
-</td>
-<td width="179">
-<p>CrCl &le; 30 mL/min: CI</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>74</strong></p>
-</td>
-<td width="170">
-<p>RAMUCIRUMAB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>75</strong></p>
-</td>
-<td width="170">
-<p>REGORAFENIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>76</strong></p>
-</td>
-<td width="170">
-<p>RITUXIMAB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>77</strong></p>
-</td>
-<td width="170">
-<p>ROMIPLOSTIME</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>78</strong></p>
-</td>
-<td width="170">
-<p>SORAFENIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>79</strong></p>
-</td>
-<td width="170">
-<p>SUNITINIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>80</strong></p>
-</td>
-<td width="170">
-<p>TARSTUZUMAB EMTANSINE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>81</strong></p>
-</td>
-<td width="170">
-<p>TEMOZOLOMIDE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>82</strong></p>
-</td>
-<td width="170">
-<p>THALIDOMIDE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>83</strong></p>
-</td>
-<td width="170">
-<p>TRASTUZUMAB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>84</strong></p>
-</td>
-<td width="170">
-<p>TRETINOINE</p>
-</td>
-<td width="179">
-<p>reduit a 25 mg/m&sup2;/jour</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>85</strong></p>
-</td>
-<td width="170">
-<p>TRI OXYDE D'ARSENIC</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>86</strong></p>
-</td>
-<td width="170">
-<p>VEMURAFENIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
+    <td>71</td>
+    <td>PERTUZUMAB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>72</td>
+    <td>PRALATREXATE</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>73</td>
+    <td>PROCARBAZINE</td>
+    <td>CrCl &le; 30 mL/min: CI</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>74</td>
+    <td>RAMUCIRUMAB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>75</td>
+    <td>REGORAFENIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>76</td>
+    <td>RITUXIMAB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>77</td>
+    <td>ROMIPLOSTIME</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>78</td>
+    <td>SORAFENIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>79</td>
+    <td>SUNITINIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>80</td>
+    <td>TARSTUZUMAB EMTANSINE</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>81</td>
+    <td>TEMOZOLOMIDE</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>82</td>
+    <td>THALIDOMIDE</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>83</td>
+    <td>TRASTUZUMAB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>84</td>
+    <td>TRETINOINE</td>
+    <td>reduit a 25 mg/m&sup2;/day</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>85</td>
+    <td>TRI OXYDE D'ARSENIC</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>86</td>
+    <td>VEMURAFENIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
 <td width="29">
 <p><strong>87</strong></p>
 </td>
