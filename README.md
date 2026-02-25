@@ -11,37 +11,37 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
      <td><strong>Hepatic impairment</strong></td>
    </tr>
    <tr>
-     <td><strong>01</strong></td>
+     <td>01</td>
      <td>ACETATE D&rsquo;ABIRATERONE</td>
      <td>No adaptation</td>
      <td>No adaptation</td>
    </tr>
    <tr>
-     <td><strong>02</strong></td>
+     <td>02</td>
      <td>ACIDE ZOLEDRONIQUE</td>
      <td>CrCl &lt; 35 mL/min: CI</td>
      <td>No adaptation</td>
    </tr>
    <tr>
-     <td><strong>03</strong></td>
+     <td>03</td>
      <td>AFATINIB</td>
      <td>No adaptation</td>
      <td>No adaptation</td>
    </tr>
    <tr>
-     <td><strong>04</strong></td>
+     <td>04</td>
      <td>AFLIBERCEPT</td>
      <td>No adaptation</td>
      <td>No adaptation</td>
    </tr>
    <tr>
-     <td><strong>05</strong></td>
+     <td>05</td>
      <td>ALEMTUZUMAB</td>
      <td>No adaptation</td>
      <td>No adaptation</td>
    </tr>
    <tr>
-     <td><strong>06</strong></td>
+     <td>06</td>
      <td>AMASACRINE</td>
      <td>CrCl &lt; 30 mL/min: 70%</td>
      <td>
@@ -52,25 +52,25 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
      </td>
    </tr>
    <tr>
-     <td><strong>07</strong></td>
+     <td>07</td>
      <td>ASPARAGINASE</td>
      <td>No adaptation</td>
      <td>&gt; 36mg/l: CI</td>
    </tr>
    <tr>
-     <td><strong>08</strong></td>
+     <td>08</td>
      <td>AXITINIB</td>
      <td>No adaptation</td>
      <td>No adaptation</td>
    </tr>
    <tr>
-     <td><strong>09</strong></td>
+     <td>09</td>
      <td>AZACITIDINE</td>
      <td>Creatininemie &ge; 14-26 mg/L for men and 10-24 mg/L for women: 50%</td>
      <td>No adaptation</td>
    </tr>
    <tr>
-     <td><strong>10</strong></td>
+     <td>10</td>
      <td>BENDAMUSTINE</td>
      <td>CrCl &lt; 40 mL/min: CI</td>
      <td>
@@ -82,13 +82,13 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
      </td>
    </tr>
    <tr>
-    <td><strong>11</strong></td>
+    <td>11</td>
     <td>BEVACIZUMAB</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>12</strong></td>
+    <td>12</td>
     <td>BLEOMYCINE</td>
     <td>
      <ul>
@@ -102,13 +102,13 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>13</strong></td>
+    <td>13</td>
     <td>BLINATUMOMAB</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>14</strong></td>
+    <td>14</td>
     <td>BORTEZOMIB</td>
     <td>No adaptation</td>
     <td>
@@ -119,7 +119,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>15</strong></td>
+    <td>15</td>
     <td>BRENTUXIMAB</td>
     <td>
      <ul>
@@ -135,7 +135,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>16</strong></td>
+    <td>16</td>
     <td>CABAZITAXEL</td>
     <td>No adaptation</td>
     <td>
@@ -147,7 +147,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>17</strong></td>
+    <td>17</td>
     <td>CAPECITABINE</td>
     <td>
      <ul>
@@ -158,13 +158,13 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>18</strong></td>
+    <td>18</td>
     <td>CARBOPLATINE</td>
     <td>CALVERT</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>19</strong></td>
+    <td>19</td>
     <td>CARFILOZOMIB</td>
     <td>CrCl &lt; 15 mL/min: 50%</td>
     <td>
@@ -175,13 +175,13 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>20</strong></td>
+    <td>20</td>
     <td>CETUXIMAB</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>21</strong></td>
+    <td>21</td>
     <td>CHLORAMBUCIL</td>
     <td>
      <ul>
@@ -192,7 +192,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>22</strong></td>
+    <td>22</td>
     <td>CISPLATINE</td>
     <td>
      <ul>
@@ -204,7 +204,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>23</strong></td>
+    <td>23</td>
     <td>CLADRIBINE</td>
     <td>
      <ul>
@@ -215,19 +215,19 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>24</strong></td>
+    <td>24</td>
     <td>CRISANTASPASE</td>
     <td>No adaptation</td>
     <td>BILI &gt;12mg/l: CI</td>
    </tr>
    <tr>
-    <td><strong>25</strong></td>
+    <td>25</td>
     <td>CRIZOTINIB</td>
     <td>CrCl &le; 30 mL/min: 250 mg daily (no dialysis required), the dosage may be increased to 200 mg twice daily based on individual safety and tolerance.</td>
     <td>BILI &gt;12mg/l: CI</td>
    </tr>
    <tr>
-    <td><strong>26</strong></td>
+    <td>26</td>
     <td>CYCLOPHOSPHAMIDE</td>
     <td>CrCl &lt; 10 mL/min: 50 %</td>
     <td>
@@ -238,7 +238,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>27</strong></td>
+    <td>27</td>
     <td>CYTARABINE</td>
     <td>
      <ul>
@@ -249,7 +249,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>28</strong></td>
+    <td>28</td>
     <td>DACARBAZINE</td>
     <td>
      <ul>
@@ -261,19 +261,19 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>T.Bil &gt; 36mg/l: CI</td>
    </tr>
    <tr>
-    <td><strong>29</strong></td>
+    <td>29</td>
     <td>DACTINOMYCINE</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>30</strong></td>
+    <td>30</td>
     <td>DASATINIB</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>31</strong></td>
+    <td>31</td>
     <td>DAUNORUBICINE</td>
     <td>Creatininemie &gt; 30 mg/L: 50%</td>
     <td>
@@ -285,13 +285,13 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>32</strong></td>
+    <td>32</td>
     <td>DENOSUMAB</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>33</strong></td>
+    <td>33</td>
     <td>DOXORUBICINE</td>
     <td>CrCl &lt; 10 mL/min: 75%</td>
     <td>
@@ -303,7 +303,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>34</strong></td>
+    <td>34</td>
     <td>DOCETAXEL</td>
     <td>No adaptation</td>
     <td>
@@ -314,13 +314,13 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>35</strong></td>
+    <td>35</td>
     <td>ENZALUTAMIDE</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>36</strong></td>
+    <td>36</td>
     <td>EPIRUBICINE</td>
     <td>No adaptation</td>
     <td>
@@ -332,13 +332,13 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>37</strong></td>
+    <td>37</td>
     <td>ERIBULINE</td>
     <td>CrCl&nbsp; &lt; 50 mL/min: 80%</td>
     <td>BILI &gt;36mg/l: CI</td>
    </tr>
    <tr>
-    <td><strong>38</strong></td>
+    <td>38</td>
     <td>ERLOTINIB</td>
     <td>CrCl &lt; 10 mL/min: CI</td>
     <td>
@@ -349,7 +349,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>39</strong></td>
+    <td>39</td>
     <td>ETOPOSIDE</td>
     <td>
      <ul>
@@ -365,13 +365,13 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>40</strong></td>
+    <td>40</td>
     <td>EVEROLIMUS</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>41</strong></td>
+    <td>41</td>
     <td>FLUDARABINE</td>
     <td>
      <ul>
@@ -382,25 +382,25 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>42</strong></td>
+    <td>42</td>
     <td>FLUOROURACILE</td>
     <td>No adaptation</td>
     <td>T.Bil &gt; 50 mg/L: CI</td>
    </tr>
    <tr>
-    <td><strong>43</strong></td>
+    <td>43</td>
     <td>FULVESTRANT</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>44</strong></td>
+    <td>44</td>
     <td>GEFITINIB</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>45</strong></td>
+    <td>45</td>
     <td>GEMCITABINE</td>
     <td>No adaptation</td>
     <td>
@@ -411,7 +411,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>46</strong></td>
+    <td>46</td>
     <td>HYDROXYCARBAMIDE</td>
     <td>
      <ul>
@@ -427,13 +427,13 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>47</strong></td>
+    <td>47</td>
     <td>IBRUTINIB</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>48</strong></td>
+    <td>48</td>
     <td>IFOSFAMIDE</td>
     <td>
      <ul>
@@ -446,13 +446,13 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>49</strong></td>
+    <td>49</td>
     <td>IMATINIB</td>
     <td>CrCl &lt; 60 mL/min: 400 mg</td>
     <td>T.Bil &gt;12mg/l: 400 mg</td>
    </tr>
    <tr>
-    <td><strong>50</strong></td>
+    <td>50</td>
     <td>IRINOTECAN</td>
     <td>No adaptation</td>
     <td>
@@ -466,25 +466,25 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>51</strong></td>
+    <td>51</td>
     <td>IDARUBICINE</td>
     <td>No adaptation</td>
     <td>Bili &gt;36mg/l: CI</td>
    </tr>
    <tr>
-    <td><strong>52</strong></td>
+    <td>52</td>
     <td>LANREOTIDE</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>53</strong></td>
+    <td>53</td>
     <td>LAPATINIB</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>54</strong></td>
+    <td>54</td>
     <td>LENALIDOMIDE</td>
     <td>
      <ul>
@@ -496,13 +496,13 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>55</strong></td>
+    <td>55</td>
     <td>LENOGRASTIM</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>56</strong></td>
+    <td>56</td>
     <td>MELPHALAN</td>
     <td>
      <ul>
@@ -515,7 +515,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>57</strong></td>
+    <td>57</td>
     <td>MERCAPTOPURINE</td>
     <td>
      <ul>
@@ -526,7 +526,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>58</strong></td>
+    <td>58</td>
     <td>METHOTRAXATE</td>
     <td>
      <ul>
@@ -542,7 +542,7 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     </td>
    </tr>
    <tr>
-    <td><strong>59</strong></td>
+    <td>59</td>
     <td>MITOMYCINE</td>
     <td>
      <ul>
@@ -554,37 +554,37 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>60</strong></td>
+    <td>60</td>
     <td>NILOTINIB</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>61</strong></td>
+    <td>61</td>
     <td>NIMOTUZUMAB</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>62</strong></td>
+    <td>62</td>
     <td>NINTEDANIB</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>63</strong></td>
+    <td>63</td>
     <td>NIVOLUMAB</td>
     <td>No adaptation</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>64</strong></td>
+    <td>64</td>
     <td>OXALIPLATINE</td>
     <td>CrCl &lt; 30 mL/min: CI</td>
     <td>No adaptation</td>
    </tr>
    <tr>
-    <td><strong>65</strong></td>
+    <td>65</td>
     <td>PACLITAXEL</td>
     <td>No adaptation</td>
     <td>
@@ -722,82 +722,55 @@ Anticancer drug dose adjuster for patients with multiple organ dysfunction syndr
     <td>No adaptation</td>
    </tr>
    <tr>
-<td width="29">
-<p><strong>87</strong></p>
-</td>
-<td width="170">
-<p>VINBLASTINE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>&bull; T.Bil 15&ndash;30 mg/dL or ASAT 60&ndash;180 IU/L: 50%</p>
-<p>&bull; T.Bil &gt; 31 mg/L or AST &gt; 180 IU/L: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>88</strong></p>
-</td>
-<td width="170">
-<p>VINCRISTINE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>89</strong></p>
-</td>
-<td width="170">
-<p>VINFLUNINE</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td width="179">
-<p>&bull; CrCl&nbsp; &lt; 60 mL/min: 87,5%</p>
-<p>&bull; 20 &lt; CrCl&nbsp; &lt; 40 mL/min: 75%</p>
-</td>
-<td width="223">
-<p>&bull; Asat H&gt; 40UI/L F&gt; 32 UI/L and bili&gt;18mg/l: 78%</p>
-<p>&bull; Asat H&gt; 40UI/L F&gt;32 UI/L and bili&gt;36mg/l: 62%</p>
-<p>&bull; Asat H&ge; 100UI/L F&ge; 80 UI/L and bili &gt; 60mg/l: CI</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>90</strong></p>
-</td>
-<td width="170">
-<p>VINORELBINE</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>&bull; T.Bil 25,2 mg/l &ndash;36mg/l: 50%</p>
-<p>&bull; T.Bil &gt; 36mg/l: 25%</p>
-</td>
-</tr>
-<tr>
-<td width="29">
-<p><strong>91</strong></p>
-</td>
-<td width="170">
-<p>VISMODEGIB</p>
-</td>
-<td width="179">
-<p>No adaptation</p>
-</td>
-<td width="223">
-<p>No adaptation</p>
-</td>
-</tr>
-</tbody>
+    <td>87</td>
+    <td>VINBLASTINE</td>
+    <td>No adaptation</td>
+    <td>
+     <ul>
+       <li>T.Bil 15&ndash;30 mg/dL or ASAT 60&ndash;180 IU/L: 50%</li>
+       <li>T.Bil &gt; 31 mg/L or AST &gt; 180 IU/L: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td>88</td>
+    <td>VINCRISTINE</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+   <tr>
+    <td>89</td>
+    <td>VINFLUNINE</td>
+    <td>
+     <ul>
+       <li>CrCl&nbsp; &lt; 60 mL/min: 87,5%</li>
+       <li>20 &lt; CrCl&nbsp; &lt; 40 mL/min: 75%</li>
+     </ul>
+    </td>
+    <td>
+     <ul>
+       <li>Asat H&gt; 40UI/L F&gt; 32 UI/L and bili&gt;18mg/l: 78%</li>
+       <li>Asat H&gt; 40UI/L F&gt;32 UI/L and bili&gt;36mg/l: 62%</li>
+       <li>Asat H&ge; 100UI/L F&ge; 80 UI/L and bili &gt; 60mg/l: CI</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td>90</td>
+    <td>VINORELBINE</td>
+    <td>No adaptation</td>
+    <td>
+     <ul>
+       <li>T.Bil 25,2 mg/l &ndash;36mg/l: 50%</li>
+       <li>T.Bil &gt; 36mg/l: 25%</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td>91</td>
+    <td>VISMODEGIB</td>
+    <td>No adaptation</td>
+    <td>No adaptation</td>
+   </tr>
+ </tbody>
 </table>
