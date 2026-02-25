@@ -4,8 +4,8 @@ AstraDose: Anticancer Drug Dosing Recommender System
 DESCRIPTION
 -----------------------------------
 
-GetSimple CMS is a flatfile CMS that works fast and efficient and has 
-the best UI around, it is written in PHP.
+Anticancer drug dose adjuster for patients with multiple organ
+dysfunction syndrome.
 
 Official Website - http://get-simple.info/
 Github - https://github.com/GetSimpleCMS/GetSimpleCMS
@@ -144,10 +144,12 @@ dropzonejs
 http://www.dropzonejs.com/
 
 
-# AstraDose
-Anticancer drug dose adjuster for patients with multiple organ dysfunction syndrome
+APPENDIX
+-----------------------------------
 
-<strong>Table 1.</strong> Adaptation of anticancer drugs in patients with renal or hepatic impairment
+Adaptation of anticancer drugs in patients with renal
+or hepatic impairment.
+
 <table>
  <tbody>
    <tr>
